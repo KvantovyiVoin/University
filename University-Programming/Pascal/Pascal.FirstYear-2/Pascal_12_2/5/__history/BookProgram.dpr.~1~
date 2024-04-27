@@ -1,0 +1,34 @@
+program BookProgram;
+
+{$APPTYPE CONSOLE}
+
+uses
+  SysUtils,
+  BookUnit;
+
+var
+  Book1, Book2: TBook;
+
+begin
+  // Створення екземплярів класу TBook
+  Book1 := TBook.Create('1984', 'Джордж Орвелл', 1949);
+  Book2 := TBook.Create('Великий Гетсбі', 'Френсіс Скотт Фіцджеральд', 1925);
+
+  try
+    // Виведення інформації про книги
+    Writeln(Book1.GetBookInfo);
+    Writeln(Book2.GetBookInfo);
+
+    // Задавання нової інформації для Book1
+    Book1.SetBookInfo('Життя на випередження', 'Френк Герберт', 1965);
+    Writeln(Book1.GetBookInfo); // Виведення оновленої інформації про книгу
+
+  finally
+    // Знищення екземплярів класу TBook
+    Book1.Free;
+    Book2.Free;
+  end;
+
+  Readln; // Зачекати, поки користувач не натисне Enter
+end.
+

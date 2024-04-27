@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.688,C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\BookInheritanceDemo.dproj=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Pascal.12-2\6\BookInheritanceDemo.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Project1.dproj=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\BookInheritanceDemo.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Unit1.pas=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\BookPolymorphismUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

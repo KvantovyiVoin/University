@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\BookProgram.dproj=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Pascal.12-2\5\BookProgram.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Project1.dproj=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\BookProgram.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Unit1.pas=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\BookUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.608,=C:\Users\Asus\OneDrive\Рабочий стол\Универитет\Інформатика\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
